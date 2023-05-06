@@ -6,7 +6,7 @@ $(document).ready(function() {
 
     // Send data to Google Sheets using AJAX
     $.ajax({
-      url: 'https://script.google.com/macros/s/1n2VkoYYJDOvSbMhTTY0oX4LYsMQWdwsEls8fy0g0JS2uURHK6UwYf19J/exec',
+      url: 'https://script.google.com/macros/s/AKfycbyiW-gS6YrtFjOd4zuXh_-5o-pU82hf7YnbDyrAwjYFDf5d7EbH4CP2Zrui_GJbRVbc/exec',
       method: 'GET',
       dataType: 'json',
       data: {
